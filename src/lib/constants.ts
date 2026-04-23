@@ -81,7 +81,7 @@ export const INITIAL_STATE: AppState = {
   heroImage: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/43b57bd1-74b5-4948-a70b-e92c485d47dc/celebrants-hero-7a7296d9-1776953151787.webp",
   celebrantNames: "Adisa O. & Morenikeji A.",
   milestone: "Mom@60 | Dad@67",
-  eventDate: "2026-05-31",
+  eventDate: "2026-05-30",
   eventTime: "12:00",
   venue: "CAC Prayer Center, Onibu Eja, Osogbo (Also streaming online)",
   message: "Join us in celebrating a lifetime of grace, wisdom, and love. Your presence would make this milestone even more precious.",
