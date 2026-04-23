@@ -79,7 +79,7 @@ export const STORAGE_KEY = 'adisa_celebration_config';
 export const INITIAL_STATE: AppState = {
   introImage: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/43b57bd1-74b5-4948-a70b-e92c485d47dc/intro-background-1301310f-1776953926415.webp",
   heroImage: "https://storage.googleapis.com/dala-prod-public-storage/generated-images/43b57bd1-74b5-4948-a70b-e92c485d47dc/celebrants-hero-7a7296d9-1776953151787.webp",
-  celebrantNames: "Adisa O. & Morenikeji A.",
+  celebrantNames: "Pastor Lawrence Adisa & Evangelist Motunrayo Adisa",
   milestone: "Mom@60 | Dad@67",
   eventDate: "2026-05-30",
   eventTime: "12:00",
